@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /avatar.png
-actionText: Let`s Go →
+heroImage: /1.jpg
+actionText: 开始
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
 sidebar: auto
